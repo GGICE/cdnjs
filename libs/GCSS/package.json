@@ -1,0 +1,18 @@
+{
+  "name": "GCSS",
+  "filename": "GCSS.css",
+  "description": "The css framework being built.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GGICE/GCSS.git"
+  },
+  "keywords": [
+    "base",
+    "css",
+    "styles"
+  ],
+  "author": "GGICE",
+  "license": "MIT",
+  "homepage": "https://github.com/GGICE/GCSS#readme",
+  "version": "0.1.53"
+}
