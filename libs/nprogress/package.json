@@ -1,0 +1,16 @@
+{
+  "name": "nprogress",
+  "filename": "nprogress.js",
+  "description": "The css framework being built.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rstacruz/nprogress"
+  },
+  "keywords": [
+    "base",
+    "css",
+    "styles"
+  ],
+  "homepage": "https://github.com/rstacruz/nprogress#readme",
+  "version": "0.2.0"
+}
